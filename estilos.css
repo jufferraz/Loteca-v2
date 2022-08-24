@@ -21,3 +21,19 @@ input{
     font-weight: bold;
     border: blue solid 2px;
 }
+
+.centerdiv{
+    text-align: center;
+    margin: 30px;
+}
+
+.geral{
+    height: calc(100vh - 210.4px - 118.4px);
+}
+
+footer{
+    background-color: black;
+    color: indigo;
+    padding: 50px;
+    margin: 0px;
+}
